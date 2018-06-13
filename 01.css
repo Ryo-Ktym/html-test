@@ -1,0 +1,36 @@
+@media screen and (max-width: 480px) {
+
+p{
+    color:rgb(120, 136, 182);
+
+    padding: 100px;
+    border: 1px solid black;
+
+}
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+
+
+.hoge{
+    font-size:50px;
+    color: brown;
+    transition: all 1s;
+
+}
+div{
+    width: 1000px;
+    height: 100px;
+    background-color: aqua;
+
+    margin: 100px 50px;
+}
+span{
+    color: red;
+    font-size: 70px;
+}
+#five{
+    background-color: aquamarine
+}
+}
